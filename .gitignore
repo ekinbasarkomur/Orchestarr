@@ -1,0 +1,8 @@
+.env
+data/
+config/
+*.bak*
+.DS_Store
+.claude/
+CLAUDE.md
+specs/
